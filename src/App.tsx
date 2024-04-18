@@ -13,6 +13,7 @@ function App() {
                     Home page
                 </h1>
                 <p className="">test</p>
+                <p>test2</p>
             </main>
         </>
     );
